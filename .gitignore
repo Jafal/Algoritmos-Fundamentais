@@ -1,0 +1,5 @@
+# Bytecode compilado
+*.class
+
+# Logs
+*.log
